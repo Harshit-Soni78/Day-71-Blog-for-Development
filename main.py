@@ -271,7 +271,7 @@ def contact():
 # The code will be visible when you upload to GitHub.
 # Use environment variables instead (Day 35)
 
-# MAIL_ADDRESS = os.environ.get("EMAIL_KEY")
+# MAIL_ADDRESS = os.environ.get("EMAIL_KEY") 
 # MAIL_APP_PW = os.environ.get("PASSWORD_KEY")
 
 # @app.route("/contact", methods=["GET", "POST"])
